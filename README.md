@@ -3,12 +3,9 @@
 **Hi! I'm Encarbassot** — a multi-passionate maker who does what he can... and usually ends up doing quite a lot.
 
 - 💻 Frontend & backend development
-- 🔩 Hardware hacking (Arduino, 3D printing, laser cutting, enclosures)
-- 🧵 Fabric crafting & bikepacking gear [fabri.cat]\(fabri.cat)
-- 📹 Content creation (YouTube, Instagram)
-- 🔧 Workshop management
-- 📦 Logistics & internal tooling (for mobility startups)
-- 🧊 Speedcubing (Rubik’s Cube)
+- 🔩 Hardware hacking (Arduino, 3D printing, laser cutting ...)
+- 🧳 Bikepacking gear design & crafting [fabri.cat](fabri.cat)
+
 
 ---
 
@@ -40,21 +37,29 @@ Workshop Manager & Lead Developer at [Panot Mobility](panotmobility.com)
 
 ---
 
+## 👤 About me
 
-## 🎯 Philosophy
-
-> Creativity is my compass. Code, tools, fabric, sensors, bicycles — it’s all part of the same universe. I build stuff because I believe ideas deserve a body.
-It took me a while to understand what I wanted to do, because honestly, there are just too many things I love doing. In another life, maybe I would’ve studied Product Design. But instead of choosing only one path, I’ve followed the thread of curiosity — from school to side projects, from code to craft.
+Growing up, I struggled to choose a single path. It took me a while to understand what I wanted to do, because honestly, there are just too many things I love doing. In another life, maybe I would’ve studied Product Design. But instead of choosing only one path, I’ve followed the thread of curiosity — from school to side projects, from code to craft.
 
 I’ve always kept a strong autodidact mindset. School taught me the basics, but it was in my personal experiments where I found the real spark. That constant desire to make something — anything — has been my north star. And even when things don't seem to connect at first, I trust the process. Eventually, everything finds its place.
 
----
+My studies pointed me in one direction, but my curiosity always pulled me in many. I spent three years in Industrial Engineering and three more in Computer Science and although I didn't finish, I left with valuable insights and no regrets ✨
 
+Parallel to my studies, my journey started with **Excel** in 2014 — creating messy but functional programs with linked cells. Eventually, I discovered **VBA** through free courses at [Barcelona Activa](https://www.barcelonactiva.cat) and got hooked on making complete programs inside an excel file. Later on, Arduino introduced me to a whole new universe of physical interaction. That’s when I dove into C++, building a full Rubik’s Cube simulator in ASCII from scratch.
+
+And from then on, I never stopped coding and building personal projects at home — always learning by doing.
+
+Nowadays, I'm putting all that energy into [fabri.cat](fabri.cat) — a space to give my creations a home. A brand I've always wanted to build, now slowly taking shape. My dream is to offer gear I design and make, through a personalized experience on my website.
+
+Last time i checked i did rubiks cube in 30"
+
+---
 ### 👾 Want to connect?
 
 - 📸 Instagram: [@elioputo](https://instagram.com/elioputo)
 - 📹 YouTube: [Eloi Fàbrega](https://www.youtube.com/c/EloiF%C3%A0brega)
 - 🧑‍💻 Web: [fabrega.cat](https://fabrega.cat)
+- 💼 LinkedIn: [Eloi Fàbrega](https://es.linkedin.com/in/eloi-fabrega)
 
 ---
 
