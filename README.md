@@ -44,15 +44,15 @@ From Excel-based programs back in 2014 to learning VBA and Arduino at school, to
 
 ## 💼 Work & Projects
 
-Frontend developer (React) at [ION Smart](ionsmart.eu)
+Frontend developer (React) at [ION Smart](https://ionsmart.eu)
 
-Workshop Manager & Lead Developer at [Panot Mobility](panotmobility.com)
+Workshop Manager & Lead Developer at [Panot Mobility](https://panotmobility.com)
 
-[fabri.cat](fabri.cat) — handmade & laser-cut bikepacking gear
+[fabri.cat](https://fabri.cat) — handmade & laser-cut bikepacking gear
 
-[fabrega.cat](fabrega.cat) — personal site
+[fabrega.cat](https://fabrega.cat) — personal site
 
-[lamess.es ](lamess.es) — bike messenger platform
+[lamess.es ](https://lamess.es) — bike messenger platform
 
 ---
 
