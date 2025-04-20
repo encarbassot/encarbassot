@@ -4,7 +4,7 @@
 
 - 💻 Frontend & backend development
 - 🔩 Hardware hacking (Arduino, 3D printing, laser cutting ...)
-- 🧳 Bikepacking gear design & crafting [fabri.cat](fabri.cat)
+- 🧳 Bikepacking gear design & crafting [fabri.cat](https://fabri.cat)
 
 
 ---
